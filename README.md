@@ -1,1 +1,7 @@
-# pinocchio_kin_solver
+# kin_solver
+
+## Dependencies
+
+Eigen, Pinocchio
+
+TODO: add KDL
